@@ -1,0 +1,3 @@
+C:/Users/kaina/CLionProjects/TicTacToeKainKami/cmake-build-debug/CMakeFiles/TicTacToeKainKami.dir
+C:/Users/kaina/CLionProjects/TicTacToeKainKami/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaina/CLionProjects/TicTacToeKainKami/cmake-build-debug/CMakeFiles/rebuild_cache.dir
