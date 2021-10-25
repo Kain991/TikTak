@@ -23,6 +23,13 @@ public:
     void playwithhuman();
     void playwithbot();
 };
+bool Environment :: checkturn(int y , int x) {
+    if(board[y][x] == ' '){
+        return true;
+    }
+    else return false;
+}
+
 
 int main() {
     Player player;
